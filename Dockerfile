@@ -19,4 +19,4 @@ RUN python leaf-classifier.py
 EXPOSE 8008
 
 # Start the server
-# CMD ["python", "cougar.py", "serve"]
+CMD ["python", "leaf-classifier.py", "serve"]
