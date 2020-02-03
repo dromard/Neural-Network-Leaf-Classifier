@@ -10,11 +10,10 @@ RUN pip install fastai
 # Install starlette and uvicorn
 RUN pip install starlette uvicorn python-multipart aiohttp
 
-ADD leaf-classifier.py leafclassifier.py
+ADD leaf-classifier.py leaf-classifier.py
 ADD leaf_classifier_2.pkl leaf_classifier_2.pkl
 
 # Run it once to trigger resnet download
-RUN python leaf-classifier.py
 
 EXPOSE 8008
 
