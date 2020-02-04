@@ -9,10 +9,10 @@ You can deploy the docker on a service that runs docker like Haruko or Render fo
 
 You can test the app using these photos
 
-It is a Pterocarya Stenoptera leaf
+* It is a Pterocarya Stenoptera leaf
 
 ![Pterocarya_Stenoptera](Pterocarya_Stenoptera.jpg)
 
-It is an Acer opalus leaf
+* It is an Acer opalus leaf
 
 ![Aver opalus leaf](Acer_opalus.jpg )
