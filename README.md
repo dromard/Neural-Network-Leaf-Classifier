@@ -1,4 +1,4 @@
-# leaf-classification
+# leaf-classifier
 Classifier of leaf trees based on fastai and the kaggle photo database leaf-classification
 
 Creation and run of a docker:<br/>
