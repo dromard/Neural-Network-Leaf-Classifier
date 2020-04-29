@@ -1,5 +1,5 @@
 # leaf-classifier
-Classifier of leaf trees based on fastai and the kaggle photo database leaf-classification
+Neural network classifier of leaf trees image based on fast.ai library and the kaggle photo database leaf-classification
 
 Creation and run of a docker:<br/>
 `sudo docker build . --tag leafclassifier`<br/>
